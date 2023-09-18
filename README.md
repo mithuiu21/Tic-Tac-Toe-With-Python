@@ -1,1 +1,2 @@
 # Tic-Tac-Toe-With-Python
+A simple AI-based (kid-intelligent) "Tic-Tac-Toe" game developed with Python. You can have hours of fun while also learning! This AI-powered game is intended to keep young minds engaged while also teaching them strategic thinking and decision-making. Children may have hours of fun while refining their cognitive skills. It's the ideal combination of play and instruction, making it a must-have for every young gamer.
